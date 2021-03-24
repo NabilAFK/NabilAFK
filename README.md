@@ -4,7 +4,7 @@
     <h1 align="center" >ItzNabil</h1>
     <br>
     <div align="center">
-      Hello! I'm Nabil. I'm an 11 year old programmer that is currently learning HTML.<br>
+      Hello! I'm Nabil. I'm a programmer that is currently learning HTML for my website.<br>
       I usually code Discord bots, cool extensions, and websites! I learned javascript, python, CSS, and Go in these pass couple of months.<br>
     </div>
   </p>
