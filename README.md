@@ -11,7 +11,7 @@
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
     <div>
       <img src="https://img.icons8.com/color/1600/discord-new-logo.png" width="19px" style="text-align:center" align="center">
-      <a href="https://discord.com/users/811706055914422303">Discord</a>・<img
+      <a href="https://discord.com/users/811706055914422303">Discord</a> <img
     </div>
   </div>
 
